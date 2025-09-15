@@ -6,12 +6,10 @@ Welcome to our open-source hub for cutting-edge research at the intersection of 
 ---
 
 ## 📚 Published Projects
-
-### 🎥 **MedGen**: Unlocking Medical Video Generation  
-> *Generate medically accurate and visually realistic clinical videos using the first large-scale medical video dataset **MedVideoCap-55K**.*  
-- **Paper**: [arXiv:2507.05675](https://arxiv.org/abs/2507.05675)  
-- **Code**: [GitHub - MedGen](https://github.com/FreedomIntelligence/MedGen)  
-- **Key**: Trained on 55K granularly-annotated medical clips; rivals commercial models in fidelity & accuracy.
+### 🌿 **ShizhenGPT**: Towards Multimodal LLMs for Traditional Chinese Medicine  
+> *The first multimodal LLM specialized for TCM diagnosis, herb recognition, and classical text understanding.*  
+- **Paper**: [arXiv:2508.14706](https://arxiv.org/abs/2508.14706)  
+- **Code**: [GitHub - ShizhenGPT](https://github.com/FreedomIntelligence/ShizhenGPT)
 
 ---
 
@@ -29,11 +27,13 @@ Welcome to our open-source hub for cutting-edge research at the intersection of 
 - **Code**: [GitHub - ShareGPT-4o-Image](https://github.com/FreedomIntelligence/ShareGPT-4o-Image)
 
 ---
+### 🎥 **MedGen**: Unlocking Medical Video Generation  
+> *Generate medically accurate and visually realistic clinical videos using the first large-scale medical video dataset **MedVideoCap-55K**.*  
+- **Paper**: [arXiv:2507.05675](https://arxiv.org/abs/2507.05675)  
+- **Code**: [GitHub - MedGen](https://github.com/FreedomIntelligence/MedGen)  
+- **Key**: Trained on 55K granularly-annotated medical clips; rivals commercial models in fidelity & accuracy.
 
-### 🌿 **ShizhenGPT**: Towards Multimodal LLMs for Traditional Chinese Medicine  
-> *The first multimodal LLM specialized for TCM diagnosis, herb recognition, and classical text understanding.*  
-- **Paper**: [arXiv:2508.14706](https://arxiv.org/abs/2508.14706)  
-- **Code**: [GitHub - ShizhenGPT](https://github.com/FreedomIntelligence/ShizhenGPT)
+
 
 ---
 
