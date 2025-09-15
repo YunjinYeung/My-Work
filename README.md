@@ -40,14 +40,14 @@ Welcome to our open-source hub for cutting-edge research at the intersection of 
 ## 🚧 Upcoming Projects (Stay Tuned!)
 
 ### 🦷 **OralGPT**: A Specialized Medical MLLM for Dental Diseases  
-> *Focus: OCT-based dental diagnosis and treatment planning.*  
+> *Focus:  dental diagnosis and treatment planning.*  
 - **Paper**: *Coming soon*  
 - **Code**: [GitHub - OralGPT](https://github.com/FreedomIntelligence/OralGPT) ✅ Available Now
 
 ---
 
 ### 📊 Benchmarking LLMs on Authentic Cases from Medical Journals  
-> *Rigorous evaluation of LLMs on real clinical cases (OCT-focused).*  
+> *Rigorous evaluation of LLMs on real clinical cases.*  
 - **Paper**: *Coming soon*  
 - **Code**: *Coming soon*
 
@@ -59,19 +59,17 @@ Welcome to our open-source hub for cutting-edge research at the intersection of 
 - **Code/Data**: [GitHub - MedPajama](https://github.com/FreedomIntelligence/MedPajama)✅ Available Now
 
 ---
-
-### ⚡ Fine-Tuned LLM-Driven Fault Detection for Electric Vehicle Charging Piles  
-> *Adaptive unsupervised methods for real-time anomaly detection in EV infrastructure.*  
-- **Paper**: *Coming soon*  
-- **Code**: *Coming soon*
-
----
-
 ### ⏱️ **Improving Video Moment Retrieval by Auxiliary Moment-Query Pairs With Hyper-Interaction**  
 > *Published in IEEE — Enhancing temporal grounding with hyper-interaction modules.*  
 - **Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10786261)  
 - **Code**: *Coming soon*
 
+---
+
+### ⚡ Fine-Tuned LLM-Driven Fault Detection for Electric Vehicle Charging Piles  
+> *Adaptive unsupervised methods for real-time anomaly detection in EV infrastructure.*  
+- **Paper**: *Coming soon*  
+- **Code**: *Coming soon*
 ---
 
 ## 🏆 Awards & Recognition
