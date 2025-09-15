@@ -1,5 +1,5 @@
 # My-Work
-# 🧠 FreedomIntelligence Medical & Multimodal AI Research
+# 🧠 My Medical & Multimodal AI Research
 
 Welcome to our open-source hub for cutting-edge research at the intersection of **Artificial Intelligence**, **Medicine**, and **Multimodal Learning**. Below is a curated list of our recent projects — from medical video generation to complex clinical reasoning and Traditional Chinese Medicine.
 
