@@ -56,7 +56,7 @@ Welcome to our open-source hub for cutting-edge research at the intersection of 
 ### 📚 **MedPajama**: A Comprehensive Corpus for Medical LLM Training  
 > *Large-scale, diverse medical text corpus for pretraining and fine-tuning.*  
 - **Paper**: *Coming November*  
-- **Code/Data**: *Coming November*
+- **Code/Data**: [GitHub - MedPajama](https://github.com/FreedomIntelligence/MedPajama)✅ Available Now
 
 ---
 
@@ -83,20 +83,14 @@ Welcome to our open-source hub for cutting-edge research at the intersection of 
 
 ---
 
-## 💡 Why Follow Us?
+## 💡 Why Select Me?
 
-We are committed to:
-- ✅ **Open Science** — Code, models, and datasets released whenever possible.
-- ✅ **Medical Accuracy** — Prioritizing clinical reliability over pure performance.
-- ✅ **Multimodal Innovation** — Bridging vision, language, and domain expertise.
-
----
-
-## 🤝 Contribute & Collaborate
-
-We welcome contributions, feedback, and collaborations!  
-👉 Star our repos, open issues, or reach out via email or GitHub Discussions.
+✅ **Full-Stack LLM Engineer** — From pretraining & SFT to RLHF, RAG, and vLLM/SGLang deployment.  
+✅ **Multimodal & Medical & Time Series AI Expert** — Built models like MedGen & HuatuoGPT-o1; experienced in OCT, CLIP, Diffusion.  
+✅ **Optimization Pro** — Mastered LoRA, quantization (AWQ/GPTQ), TensorRT, ONNX, DeepSpeed,  hardware acceleration.  
+✅ **Agent & Tool Builder** — Customized Dify/FastGPT; expert in LlamaIndex, LangChain, and advanced RAG pipelines.  
+✅ **Research-to-Production** — Rapidly prototype SOTA papers, solve real-world problems, and deliver scalable AI systems.
 
 ---
 
-*Built with ❤️ by [FreedomIntelligence](https://github.com/FreedomIntelligence)*
+
