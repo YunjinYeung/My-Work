@@ -61,7 +61,7 @@ Welcome to our open-source hub for cutting-edge research at the intersection of 
 ---
 ### ⏱️ **Improving Video Moment Retrieval by Auxiliary Moment-Query Pairs With Hyper-Interaction**  
 > *Published in IEEE — Enhancing temporal grounding with hyper-interaction modules.*  
-- **Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10786261)  
+- **Paper**: IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/document/10786261)  
 - **Code**: *Coming soon*
 
 ---
