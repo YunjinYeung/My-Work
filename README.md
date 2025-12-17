@@ -1,6 +1,6 @@
 # My-Work
 You’ve got great taste! Welcome to browse my homepage!
-- **Homepage**: [Homepage](https://yunjinyeung.github.io/)  
+- **Let's go**: [Homepage](https://yunjinyeung.github.io/)  
 # My-Work
 # 🧠 My Medical & Multimodal AI Research
 
